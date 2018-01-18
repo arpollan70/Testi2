@@ -12,6 +12,7 @@ namespace Testi2
         {
             Console.WriteLine("Testi2");
             Console.WriteLine("Testi2");
+            Console.WriteLine("Testi2");
         }
     }
 }
