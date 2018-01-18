@@ -11,6 +11,7 @@ namespace Testi2
         static void Main(string[] args)
         {
             Console.WriteLine("Testi2");
+            Console.WriteLine("Testi2");
         }
     }
 }
